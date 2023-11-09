@@ -8,6 +8,7 @@ and returns a _JSON_ response with amount of each character, and it's frequency 
     To send post request you also can use Postman or it's analogue
 
 After starting an API, you need to send a post request by mapping `/getAllSequenceElementsCount`
+    'localhost:8080/getAllSequenceElementsCount'
 
 ## Format of request
 
